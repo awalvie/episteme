@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "7153d4e9c1bf2166",
+    "type": "split",
+    "children": [
+      {
+        "id": "af48bdd2eb7b4974",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eeb81cdb74de3ecf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d9c8c8f91775935",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9266a0258582a8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4213a29e857d5964",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8bafe52bd8bde7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ca31ea586061788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e173156027426134",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "af48bdd2eb7b4974",
+  "lastOpenFiles": [
+    "README.md",
+    "notes/Rene Descartes.md",
+    "static/Pasted image 20210621001925.png",
+    "notes/Untitled.md",
+    "Untitled.md"
+  ]
+}
